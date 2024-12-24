@@ -33,7 +33,7 @@ git clone
 
 - Start the frontend server:
   ```bash
-  npm start
+  npm run dev
   ```
 
 Access the application at:
@@ -47,7 +47,7 @@ http://localhost:5173/
   cd ../admin
 - Start the admin panel:
   ```bash
-  npm start
+  npm run dev
   ```
 
 ---
